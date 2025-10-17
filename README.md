@@ -4,6 +4,7 @@
 
 ## Social Links
 Youtube: https://www.youtube.com/@CreeperLogMat
-|---|
+
 Github: https://github.com/CreeperLogMat
+
 Discord: https://discord.gg/7VtWR4wp5y
